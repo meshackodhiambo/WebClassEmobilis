@@ -1,0 +1,36 @@
+.cars{
+    background-color: red;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.fruits {
+    background-color: #0059ff;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.fish {
+    background-color: #ffdd00;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.Animals {
+    background-color: #8400ff;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+#Students   {
+ background-color: rgb(38, 135, 38);
+
+}
